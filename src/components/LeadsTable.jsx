@@ -6,7 +6,7 @@ function LeadsTable({ leads }) {
         <table className="min-w-full">
             <thead className="bg-slate-100 text-slate-600">
                 <tr>
-                    <th className='p-4 text-left'>Nombre</th>
+                    <th className='p-4 text-left'>Nombr</th>
                     <th className='p-4 text-left'>Correo</th>
                     <th className='p-4 text-left'>Estatus</th>
                 </tr>

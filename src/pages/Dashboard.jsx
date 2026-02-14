@@ -8,7 +8,7 @@ function Dashboard() {
         Dashboard de Captación de Leads
       </h1>
 
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         <Card title="Prospectos">300</Card>
         <Card title="Contactados">150</Card>
         <Card title="Inscritos">75</Card>

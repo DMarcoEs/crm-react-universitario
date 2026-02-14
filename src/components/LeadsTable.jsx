@@ -1,8 +1,8 @@
 import Badge  from './Badge';
 
 function LeadsTable({ leads }) {
-   return(
-     <div className='overflow-x-auto rounded-xl shadow bg-white'>
+    return(
+    <div className='overflow-x-auto rounded-xl shadow bg-white'>
         <table className="min-w-full">
             <thead className="bg-slate-100 text-slate-600">
                 <tr>
@@ -26,8 +26,8 @@ function LeadsTable({ leads }) {
                 ))}
             </tbody>
         </table>
-     </div>
-   )
+    </div>
+)
 }
 
 export  default LeadsTable

@@ -8,10 +8,10 @@ function Navbar(){
                 Inicio
             </Link>
             <Link to="/about" 
-             className="hover:text-sky-400 transition-colors duration-300">
+            className="hover:text-sky-400 transition-colors duration-300">
                 Acerca de</Link>
             <Link to="/contact"
-               className="hover:text-sky-400 transition-colors duration-300">
+            className="hover:text-sky-400 transition-colors duration-300">
                 Contacto</Link>
         </nav>
     )
